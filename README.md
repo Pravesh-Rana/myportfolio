@@ -4,9 +4,7 @@ I'm Pravesh Rana, a data scientist with a passion for using data to drive insigh
 ## Built With
 - React
 - CSS
-- Three.js
-## Screen shot
-![image](https://uploadnow.io/files/xky5JXJ)
+- JS
 
 
 ## Live Demo
