@@ -1,19 +1,17 @@
 # Portfolio
- I’m a certified full-stack developer, who enjoys building interactive interfaces with JavaScript, React and Ruby On Rails.
-I'm also a Mentor, Project Reviewer at Microverse.
-I'm open to front-end (remote) opportunities. If you like what you see and have a project you need coded, don’t hestiate to contact me. 
+I'm Pravesh Rana, a data scientist with a passion for using data to drive insights and solve complex problems. I enjoy working on a variety of projects, from exploratory data analysis to machine learning and predictive modeling. On my GitHub, you'll find some of my recent projects and code samples, showcasing my skills in data cleaning, visualization, statistical analysis, and more. Feel free to explore my work and don't hesitate to reach out if you have any questions or collaboration opportunities. 
 
 ## Built With
 - React
 - CSS
 - Three.js
 ## Screen shot
-![image](https://user-images.githubusercontent.com/84907743/172868240-6fc6effe-1b01-4315-b267-99de1fedf364.png)
+![image](https://uploadnow.io/files/xky5JXJ)
 
 
 ## Live Demo
 
-- [Netlify](https://somdotta-dev.netlify.app/)
+- (https://praveshrana-portfolio.vercel.app/)
 
 
 ## Getting Started :
@@ -50,11 +48,10 @@ To open the project you can simply download and double click the index.html file
 ### Deployment
 Use an IDE to develop and run it into your browser.
 
-👤 Somdotta Sarkar
+👤Pravesh Rana
 
-- [Github](https://github.com/Somdotta07)
-- [Twitter](https://github.com/Somdotta07)
-- [LinkedIn](www.linkedin.com/in/somdottasarkar)
+- [Github](https://github.com/Pravesh-Rana)
+- [LinkedIn](https://www.linkedin.com/in/pravesh-rana-237941202/)
 
 
 ## 🤝 Contributing
@@ -68,13 +65,8 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Microverse
-- Mixamo.com
 - EGATOR
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
 
 
 
